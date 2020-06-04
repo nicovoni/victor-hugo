@@ -1,0 +1,9 @@
+{
+        "title" : "No. 1 Web Development Agency in India!",
+        "description" : "Complete your sale to see your coustomer here.",
+        "image" : "freelancer.jpeg",
+        "button" : {
+          "text" : "Get In Touch",
+          "href" : "/#contact"
+        }
+      }

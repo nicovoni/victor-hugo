@@ -1,0 +1,9 @@
+{
+        "components" : [
+          "cover",		  
+          "features",
+		  "pricing",
+		  "team",
+		  "contact"
+        ]
+      }
