@@ -1,21 +1,26 @@
 {
-        "title" : "Services",
-        "description" : "We're best at our services",
+        "title" : "Cosa faccio nella vita!?",
+        "description" : "“Imparare è sempre ribellione. Ogni brandello di nuove verità scoperte è rivoluzionario rispetto a ciò che si era creduto prima.”",
         "content" : [
-          {
-            "icon" : "bell",
-            "title" : "Creative Design",
-            "description" : "Our proven creative website design services speak of your brand, thus establishing an instant connection with your customers."
+		  {
+            "icon" : "wrench",
+            "title" : "Consulenza tecnica",
+            "description" : "Una necessità primaria per le aziende e i privati è avere a disposizione un consulente informatico che li aiuti a risolvere i problemi in breve tempo .."
           },
           {
-            "icon" : "code",
-            "title" : "Web & Mobile Development",
-            "description" : "We help you craft a functional and high-performing apps and websites through our effective mobile and web development services."
+            "icon" : "globe-africa",
+            "title" : "Realizzazione siti web",
+            "description" : "Realizzare un sito web nasce dalla necessità di aumentare la propria visibilità, creare un blog o un sito internet .."
           },
           {
-            "icon" : "",
-            "title" : "Digital Marketing",
-            "description" : "Enhance your reach and make more customers fall for you with our well-planned and strategized marketing solutions."
+            "icon" : "chart-line",
+            "title" : "Ottimizzazione SEO",
+            "description" : "Come indicizzare un sito per ottenere un posizionamento nei primi posti nei motori di ricerca richiede delle competenze ben definite .."
+          },		  
+          {
+            "icon" : "poll",
+            "title" : "Web marketing",
+            "description" : "Aumentare la visibilità di un sito su internet è possibile tramite delle strategie di marketing .."
           }
         ]
       }

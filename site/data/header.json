@@ -1,21 +1,21 @@
 {
         "brand" : "Sodium Theme",
-        "logo" : "logo.png",
+        "logo" : "logo.svg",
         "links" : [
           {
             "title" : "Home",
             "href" : ""
           },
-          {
-            "title" : "Blog",
-            "href" : "blog"
+		  {
+            "title" : "Cosa faccio",
+            "href" : "#features"
           },
           {
-            "title" : "Work",
-            "href" : "work"
-          },
+            "title" : "Help Desk",
+            "href" : "#pricing"
+          },          
           {
-            "title" : "Contact",
+            "title" : "Contatta",
             "href" : "#contact"
           }
         ]

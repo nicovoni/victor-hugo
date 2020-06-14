@@ -1,32 +1,53 @@
 {
-        "title" : "Pricing",
-        "description" : "Pricing subtitle",
+        "title" : "Proviamo a risolvere il problema!",
+        "description" : "“Errare è umano, e dare la colpa ad un computer lo è ancor di più.”",
         "content" : [
           {
-            "title" : "Starter",
-            "price" : "$30",
+            "title" : "Assistenza remota",
+            "price" : "",
             "features" : [
-              "No setup, monthly, or hidden fees",
-              "Pay only for what you use",
-              "Real-time fee reporting"
+              "Aggiornamento sistema",
+			  "Ottimizzazione PC/Mac",
+              "Installazione software",
+              "Rimozione virus, ransomware, adw ecc.",
+			  "Backup dati",			  
+			  "Risoluzione problemi internet, Office, Gsuite ecc."			  
             ],
             "button" : {
-              "text" : "Contact",
-              "href" : "/#contact"
+              "text" : "Scegli",
+              "href" : "#contact"
             }
           },
           {
-            "title" : "Advance",
-            "price" : "$90",
+            "title" : "Assistenza on-site",
+            "price" : "",
             "features" : [
-              "All features of Starter Pack",
-              "Feature number 2",
-              "Feature 3",
-              "feature 4"
+              "Pulizia interna PC",
+			  "Sostituzione pasta termica",
+              "Upgrade Hardware",
+              "Clonazione HDD",
+			  "Recupero dati da supporti danneggiati, ransomware ecc.",
+			  "Configurazione router, stampanti ecc."
             ],
             "button" : {
-              "text" : "Contact",
-              "href" : "/#contact"
+              "text" : "Scegli",
+              "href" : "#contact"
+            }
+          },
+		  {
+            "title" : "Assistenza evoluta",
+            "price" : "",
+            "features" : [
+              "Riparazione Notebook",
+			  "Riparazione Scheda Madre",
+			  "Assemblaggio PC su misura per gaming, lavoro ecc.",
+              "Assistenza Apple",
+			  "Assistenza smartphone",
+			  "Reti cablate e Wi-Fi, VPN e Firewall."
+            ],
+            "button" : {
+              "text" : "Scegli",
+              "href" : "#contact"
             }
           }
         ]

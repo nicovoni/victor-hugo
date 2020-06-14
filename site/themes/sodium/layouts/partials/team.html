@@ -8,8 +8,8 @@
       {{ range $team.members }}
         <div class="col-3 col-lg-1 col-md-1 col-sm-2">
           <img data-toggle="tooltip" title="{{ .name }}" class="mb-3 teamAvatar" src="{{.Site.BaseURL}}images/team/{{.avatar }}" alt="{{ .name }}">
-          <!-- <h4 class="h4">{{ .name }}</h4>
-          <div class="text-muted">{{ .description }}</div> -->
+          <!-- <h4 class="h4">{{ .name }}</h4> -->
+          <div class="text-muted">{{ .description }}</div>
         </div>
       {{ end }}
     </div>

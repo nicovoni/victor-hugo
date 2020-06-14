@@ -15,7 +15,7 @@
                     <div class="my-2 text-muted"><i class="fa fa-check mr-3 text-success"></i>{{ . }}</div>
                   {{ end }}
               </div>
-              <a href="{{ .button.href | absURL }}" class="btn btn-outline-dark mt-4">{{ .button.text }}</a>
+              <a href="{{ .button.href | relURL }}" class="btn btn-outline-dark mt-4">{{ .button.text }}</a>
             </div>
         </div>
       {{ end }}

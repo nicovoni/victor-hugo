@@ -1,21 +1,11 @@
 {
-        "title" : "Team",
-        "description" : "Little team description here",
+        "title" : "E questo è il mio team di lavoro!",
+        "description" : "per ora faccio tutto da solo..",
         "members" : [
           {
-            "name" : "Arvind",
-            "description" : "CEO",
-            "avatar" : "arvind.jpg"
-          },
-          {
-            "name" : "Jatin",
-            "description" : "Graphics Designer",
-            "avatar" : "jatin.jpg"
-          },
-          {
-            "name" : "Gurpreet",
-            "description" : "Graphics Designer",
-            "avatar" : "gurpreet.jpg"
-          }
+            "name" : "Nicola Cantalupo",
+            "description" : "Assistente Tecnico Informatico",
+            "avatar" : "nicola.jpg"
+          }		  
         ]
       }

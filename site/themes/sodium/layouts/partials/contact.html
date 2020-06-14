@@ -4,7 +4,7 @@
 	<div class="container">
 
 		<center>
-			<h2 class="h2 my-5">Contact</h2>
+			<h2 class="h2 my-5">Mettiti in contatto con l'esperto!</h2>
 		</center>
 
 		<form action="https://formspree.io/{{ .Site.Data.config.email }}" method="POST">
@@ -13,22 +13,20 @@
 				<div class="col-12 col-lg-4 col-md-4 rounded text-dark p-5" style="font-size: 18px">
 					{{ if $contact.address }}
 					<div class="mb-3">
-						<div class="text-uppercase text-muted">
-							Address
-						</div>
-						<div>{{ $contact.address }}</div>
+						<div class="text-uppercase text-muted">indirizzo</div>
+						<div><a class="text-success" target="_blank" href="https://goo.gl/maps/CKL7coX6Ap7RxEKNA">{{ $contact.address }}</a></div>
 					</div>
 					{{ end }}
 					{{ if $contact.email }}
 					<div class="mb-3">
-						<div class="text-uppercase text-muted">Email</div>
-						<div>{{ $contact.email }}</div>
+						<div class="text-uppercase text-muted">scrivimi <i class="far fa-envelope"></i></div>
+						<div><a class="text-success" href="mailto:{{ $contact.email }}">{{ $contact.email }}</a></div>
 					 </div>
 					{{ end }}
 					{{ if $contact.phone }}
 					<div class="mb-3">
-						<div class="text-uppercase text-muted">Phone</div>
-						<div>{{ $contact.phone }}</div>
+						<div class="text-uppercase text-muted">chiamami</div>
+						<div><a class="text-success" href="tel:{{ $contact.phone }}">{{ $contact.phone }}</a></div>
 					</div>
 					{{ end }}
 				</div>
@@ -36,26 +34,26 @@
 						<div class="row">
 							<div class="col-12 col-lg-6 col-md-6">
 								<div class="form-group">
-									<label>Name</label>
-									<input type="text" name="Name" class="form-control" placeholder="Name">
+									<label>Nome</label>
+									<input type="text" name="Name" class="form-control" placeholder="Nome e Cognome">
 								</div>
 							</div>
 							<div class="col-12 col-lg-6 col-md-6">
 								<div class="form-group">
 									<label>Email</label>
-									<input type="email" name="Email" class="form-control" placeholder="Email">
+									<input type="email" name="Email" class="form-control" placeholder="Indirizzo Email">
 								</div>
 							</div>
 	
 							<div class="col-12">
 								<div class="form-group">
-									<label>Message</label>
-									<textarea placeholder="Message" name="Message" rows="5" class="form-control"></textarea>
+									<label>Messaggio</label>
+									<textarea placeholder="Il mio computer sta dando i numeri .." name="Message" rows="5" class="form-control"></textarea>
 								</div>
 							</div>
 	
 							<div class="col-12">
-									<button type="submit" class="btn btn-outline-dark">Submit</button>
+									<button type="submit" class="btn btn-outline-dark">Invia</button>
 							</div>
 	
 						</div>
