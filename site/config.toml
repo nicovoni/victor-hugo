@@ -1,7 +1,8 @@
 baseurl = "https://www.nicolacantalupo.it/"
-languageCode = "en-us"
-languageLang = "en"
-title = "Nicola Cantalupo Assistente Tecnico Informatico Grosseto Follonica"
+languageCode = "it"
+languageLang = "it"
+title = "Nicola Cantalupo Assistente Tecnico Informatico Follonica"
+enableRobotsTXT = "true"
 theme = "sodium"
 
 # RSS, categories and tags disabled for an easy start
