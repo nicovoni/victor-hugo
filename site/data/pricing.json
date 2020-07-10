@@ -1,6 +1,6 @@
 {
-        "title" : "Proviamo a risolvere il problema!",
-        "description" : "“Errare è umano, e dare la colpa ad un computer lo è ancor di più.”",
+        "title" : "Proviamo a risolvere il tuo problema!",
+        "description" : "“Errare è umano, e dare la colpa ad un computer lo è ancor di più.” (Robert Orben)",
         "content" : [
           {
             "title" : "Assistenza remota",
@@ -11,7 +11,7 @@
               "Installazione software",
               "Rimozione virus, ransomware, adw ecc.",
 			  "Backup dati",			  
-			  "Risoluzione problemi internet, Office, Gsuite ecc."			  
+			  "Risoluzione problemi connessione internet"			  
             ],
             "button" : {
               "text" : "Scegli",
@@ -26,8 +26,8 @@
 			  "Sostituzione pasta termica",
               "Upgrade Hardware",
               "Clonazione HDD",
-			  "Recupero dati da supporti danneggiati, ransomware ecc.",
-			  "Configurazione router, stampanti ecc."
+			  "Assemblaggio computer gaming, editing video, CAD",
+			  "Installazione stampanti, webcam e altre periferiche"
             ],
             "button" : {
               "text" : "Scegli",
@@ -38,13 +38,29 @@
             "title" : "Assistenza evoluta",
             "price" : "",
             "features" : [
-              "Riparazione Notebook",
+              "Riparazione Computer",
 			  "Riparazione Scheda Madre",
-			  "Assemblaggio PC su misura per gaming, lavoro ecc.",
+			  "Recupero dati da supporti danneggiati",
               "Assistenza Apple",
 			  "Assistenza smartphone",
-			  "Reti cablate e Wi-Fi, VPN e Firewall."
+			  "Reti domestiche e Wi-Fi, VPN e Firewall."
             ],
+            "button" : {
+              "text" : "Scegli",
+              "href" : "#contact"
+            }
+          },
+		  {
+            "title" : "sito web e seo",
+            "price" : "",
+            "features" : [
+              "Sito web aggiornabile autonomamente dal cliente",
+			  "Sito web multilingua",
+              "Sito e-commerce",
+			  "Sito statico e landing page",
+              "Posizionamento sui motori di ricerca",
+			  "Sicurezza Sito web"
+			],
             "button" : {
               "text" : "Scegli",
               "href" : "#contact"

@@ -1,7 +1,7 @@
 baseurl = "https://www.nicolacantalupo.it/"
 languageCode = "it"
 languageLang = "it"
-title = "Nicola Cantalupo Assistente Tecnico Informatico Follonica"
+title = "tecnico informatico webmaster assistenza riparazione computer sapri"
 enableRobotsTXT = "true"
 theme = "sodium"
 
@@ -10,6 +10,6 @@ theme = "sodium"
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 [sitemap]
-  changefreq = "weekly"
+  changefreq = "daily"
   filename = "sitemap.xml"
   priority = 0.5

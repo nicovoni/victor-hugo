@@ -1,26 +1,26 @@
 {
-        "title" : "Cosa faccio nella vita!?",
-        "description" : "“Imparare è sempre ribellione. Ogni brandello di nuove verità scoperte è rivoluzionario rispetto a ciò che si era creduto prima.”",
+        "title" : "Le mie abilità informatiche in aggiornamento ..",
+        "description" : "“Imparare è sempre ribellione. Ogni brandello di nuove verità scoperte è rivoluzionario rispetto a ciò che si era creduto prima.” (M. Lee Runbeck)",
         "content" : [
 		  {
             "icon" : "wrench",
-            "title" : "Consulenza tecnica",
-            "description" : "Una necessità primaria per le aziende e i privati è avere a disposizione un consulente informatico che li aiuti a risolvere i problemi in breve tempo .."
+            "title" : "Assistenza informatica",
+            "description" : "Un abile tecnico informatico deve fornire assistenza e manutenzione a tutti i sistemi sia hardware che software. Deve essere un tecnico hardware, specialista del software, sistemista, programmatore."
           },
           {
             "icon" : "globe-africa",
-            "title" : "Realizzazione siti web",
-            "description" : "Realizzare un sito web nasce dalla necessità di aumentare la propria visibilità, creare un blog o un sito internet .."
+            "title" : "Realizzazione sito web",
+            "description" : "Creo, gestisco e progetto siti web di e-commerce, siti web statici, landing pages, siti web per PA, blog, forum e qualsiasi tipo di richiesta di sviluppo web."
           },
           {
             "icon" : "chart-line",
-            "title" : "Ottimizzazione SEO",
-            "description" : "Come indicizzare un sito per ottenere un posizionamento nei primi posti nei motori di ricerca richiede delle competenze ben definite .."
+            "title" : "Esperto SEO",
+            "description" : "Costruire un bel sito web serve a poco se non si riesce ad attrarre il pubblico adatto e se non si riesce a fare in modo che le visite si trasformino in contatti."
           },		  
           {
             "icon" : "poll",
             "title" : "Web marketing",
-            "description" : "Aumentare la visibilità di un sito su internet è possibile tramite delle strategie di marketing .."
+            "description" : "Il sito web è nato come strumento di comunicazione. È molto importante non perdere di vista quest'aspetto e consultare un buon consulente marketing che sappia rappresentare il cliente sul mercato e curarne l'immagine."
           }
         ]
       }

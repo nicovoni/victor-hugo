@@ -1,5 +1,5 @@
 {
-        "brand" : "Sodium Theme",
+        "brand" : "informatico italiano",
         "logo" : "logo.svg",
         "links" : [
           {
@@ -7,11 +7,11 @@
             "href" : ""
           },
 		  {
-            "title" : "Cosa faccio",
+            "title" : "Skills",
             "href" : "#features"
           },
           {
-            "title" : "Help Desk",
+            "title" : "Servizi",
             "href" : "#pricing"
           },          
           {
